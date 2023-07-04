@@ -1,0 +1,19 @@
+{
+    "name": "ff7/testimonial-collector",
+    "description": "A plugin to collect testimonials",
+    "type": "wp-plugin",
+    "license": "GPL 3.0+",
+    "autoload": {
+        "psr-4": {
+            "TestimonialCollector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prakritee Sharma",
+            "email": "prakritee.codewing@example.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
